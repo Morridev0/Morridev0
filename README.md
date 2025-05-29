@@ -1,6 +1,8 @@
-## 🤖 Hi there, I'm Morri
+### 🤖 Hi there, I'm Morri
 
-## 📌 About Me
+---
+
+### 📌 About Me
 I'm a full-stack junior software developer interested in creating videogames, apps and mods for a living. 👾
 
 - 🎓 Academic background: University degree in English Studies - Higher Vocational Qualification in Cross Platform Application Development 
@@ -8,7 +10,9 @@ I'm a full-stack junior software developer interested in creating videogames, ap
 - 🚀 Interests: Videogames narrative, game & character design
 - 👻 Fun fact: Certified Professional Ghost Hunter in Phasmophobia's HQ
 
-## 💻 Programming Languages
+---
+
+### 💻 Programming Languages
 <div align="center">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white" />
@@ -23,6 +27,8 @@ I'm a full-stack junior software developer interested in creating videogames, ap
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
+---
+
 ### 🧰 Frameworks & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-%237F52FF.svg?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -33,6 +39,8 @@ I'm a full-stack junior software developer interested in creating videogames, ap
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 </div>
 
+---
+
 ### 🗄️ Databases
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -41,6 +49,8 @@ I'm a full-stack junior software developer interested in creating videogames, ap
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+
+---
 
 ### 🧪 IDEs & Editors
 <div align="center">
@@ -51,9 +61,13 @@ I'm a full-stack junior software developer interested in creating videogames, ap
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </div>
 
-## 📂 Projects
+---
+
+### 📂 Projects
 
 ⚠️ - WIP 
 
-## 📫 Contact
+---
+
+### 📫 Contact
 - Email: [morri.dev0@gmail.com](mailto:morri.dev0@gmail.com)
