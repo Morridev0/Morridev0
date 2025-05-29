@@ -64,9 +64,7 @@ I'm a full-stack junior software developer interested in creating videogames, ap
 
 ## 📂 Projects
 
-Aquí algunos de mis proyectos:
-
-## ⚠️ - WIP 
+⚠️ - WIP 
 
 ---
 
