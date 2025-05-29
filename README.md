@@ -4,7 +4,7 @@
 
 ## 📌 About Me
 
-Soy un desarrollador apasionado por la tecnología, el código limpio y los retos constantes. Me encanta aprender cosas nuevas y contribuir a proyectos que tengan un impacto positivo.
+I'm a junior software developer interested in creating videogames, apps and mods for a living. 👾
 
 - 🎓 Academic background: English Studies - Higher Vocational Qualification in Cross Platform Application Development 
 - 🌱 Learning: Godot 4 - GDScript
