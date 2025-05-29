@@ -4,7 +4,7 @@
 
 ## 📌 About Me
 
-I'm a junior software developer interested in creating videogames, apps and mods for a living. 👾
+I'm a full-stack junior software developer interested in creating videogames, apps and mods for a living. 👾
 
 - 🎓 Academic background: University degree in English Studies - Higher Vocational Qualification in Cross Platform Application Development 
 - 🌱 Learning: Godot 4 - GDScript
