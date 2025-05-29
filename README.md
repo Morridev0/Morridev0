@@ -9,7 +9,7 @@ Soy un desarrollador apasionado por la tecnología, el código limpio y los reto
 - 🎓 Academic background: English Studies - Higher Vocational Qualification in Cross Platform Application Development 
 - 🌱 Learning: Godot 4 - GDScript
 - 🚀 Interests: Videogames narrative, game & character design
-- 👻 Fun fact: Certified Professional Ghost Hunter in Phasmophobia HQ
+- 👻 Fun fact: Certified Professional Ghost Hunter in Phasmophobia's HQ
 
 ---
 
