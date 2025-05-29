@@ -6,7 +6,7 @@
 
 I'm a junior software developer interested in creating videogames, apps and mods for a living. 👾
 
-- 🎓 Academic background: English Studies - Higher Vocational Qualification in Cross Platform Application Development 
+- 🎓 Academic background: University degree in English Studies - Higher Vocational Qualification in Cross Platform Application Development 
 - 🌱 Learning: Godot 4 - GDScript
 - 🚀 Interests: Videogames narrative, game & character design
 - 👻 Fun fact: Certified Professional Ghost Hunter in Phasmophobia's HQ
